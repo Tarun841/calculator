@@ -9,7 +9,7 @@ body{
     height: 100vh;
 }
 #calculator{
-    max-width: 500px;
+    max-width: 600px;
     background-color: hsl(0, 0%, 15%);
     overflow: hidden;
     border-radius: 10px;
